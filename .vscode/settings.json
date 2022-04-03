@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/d06ee1f5-66a5-4d9f-afe3-e2a997c28d42/resourceGroups/appsvc_linux_centralus_basic/providers/Microsoft.Web/sites/butterfly-photo-gallery",
+    "appService.deploySubpath": "."
+}
