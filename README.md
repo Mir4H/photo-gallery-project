@@ -1,4 +1,4 @@
-<b>Project - Butterfly Gallery</b><br>
+# Project - Butterfly Gallery <br>
 Photo gallery website built with Django. This is a school project made in collaboration with two other students.
 The photogallery has features such as: 
 - Create a user profile
